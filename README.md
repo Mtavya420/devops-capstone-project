@@ -51,6 +51,8 @@ make install
 
 ### Starting the Postgres Docker container
 
+![Build Status](https://github.com/mtavya420/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 The labs use Postgres running in a Docker container. If for some reason the service is not available you can start it with:
 
 ```bash
